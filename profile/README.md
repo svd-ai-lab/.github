@@ -4,4 +4,5 @@ We are a team of scientists and engineers connecting AI agents to software and h
 
 ### Projects
 
-- **[ion](https://github.com/svd-ai-lab/ion)** — simulation runtime that lets AI agents drive CAE solvers (Fluent, COMSOL, MATLAB, and more) through a unified CLI. See [cookbook](https://github.com/svd-ai-lab/ion-cookbook) for examples.
+- **[sim-cli](https://github.com/svd-ai-lab/sim-cli)** — a CLI runtime that lets LLM agents launch, drive, and observe CAD/CAE simulators (Fluent, COMSOL, MATLAB, and more) through one protocol.
+- **[sim-skills](https://github.com/svd-ai-lab/sim-skills)** — agent playbooks that teach LLMs how to drive every engineering tool, paired with the sim-cli runtime.
